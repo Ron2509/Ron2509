@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer science student passionate about Gen-AI, web development, machine learning. Still polishing skills in various languages to learn more.
+Software Developer with experience in building production-grade backend systems across a funded early-stage startup, an international startup, and a public sector organization. Worked across backend engineering, payment infrastructure, DevOps, and AI-powered search, taking end-to-end ownership of features from design and development through deployment while delivering scalable, business-focused solutions.
 
 
 ## 🌐 Socials:
